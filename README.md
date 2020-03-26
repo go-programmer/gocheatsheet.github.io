@@ -9,4 +9,4 @@ The goal is to be one source of resource to learn Golang.
 Every interested Gophers are welcome to collaborate.
 
 > Cheers, 
-> - Anit
+> @codeanit

@@ -1,6 +1,6 @@
-# golangexamples.github.io
 
-# This is the main repository and will only have this README!
+
+# README
 
 > The primary objective of this organization is to list out examples in Go.
 > The examples could be code samples or other open source projects.
